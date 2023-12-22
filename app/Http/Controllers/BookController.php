@@ -48,7 +48,7 @@ public function search(Request $request)
      */
     public function store(Request $request)
     {
-        // dd($request );
+        // dd($request);
 
         $request->validate([
             'title'=> 'required', 

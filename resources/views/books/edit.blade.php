@@ -22,7 +22,7 @@
             <div class="card"
                 style="margin-top:10px; width: 50%; left:0; right: 0; bottom: 0; top: 0; margin: auto; padding-top: 10px">
                 <div class="card-body">
-                    <h1 class="text-center mb-3">Editing a Bok</h1>
+                    <h1 class="text-center mb-3">Editing a Book</h1>
                     <img class="rounded mx-auto d-block" src="{{ asset('storage/' . $book->image) }}" width="300px">
                     <div class="mb-3 row g-2 align-items-center">
                         <div class="col-auto">
